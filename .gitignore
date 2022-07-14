@@ -1,0 +1,20 @@
+*.pth
+.DS_Store
+virtual_environments
+Logs
+tester.log
+feature_vector_directory
+__pycache__
+.vscode
+evaded-samples
+runs
+Mutated Files
+testing-samples
+mutated_dataset
+*.exe
+Mutated_malware
+adversarial_feature_vector_directory
+gym_malware/envs/utils/samples
+evaded/score
+*.bak
+
